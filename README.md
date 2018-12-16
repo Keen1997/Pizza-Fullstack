@@ -1,4 +1,4 @@
-## TheNodeJSMasterClass-Homework Assignment 2
+## Pizza FullStack
 
 *Can do list*
 
