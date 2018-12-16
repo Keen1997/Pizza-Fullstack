@@ -32,4 +32,4 @@ node index.js
 ```
 
 #### NOTE
-*Key the stripe and mailgun in lib/config.js before you use it.*
+*Key the stripe and mailgun in lib/config.js before you order.*
