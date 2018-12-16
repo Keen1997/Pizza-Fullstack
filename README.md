@@ -12,13 +12,15 @@
 
 5. *Delete account*
 
-6. *Show the menu (only after login)*
+6. *Logout*
 
-7. *Choose the menu with quantity*
+7. *Show the menu (only after login)*
 
-8. *Calculate price*
+8. *Choose the menu with quantity*
 
-9. *Order (payment and send email back) ## Key the stripe and mailgun in lib/config.js before you use it.*
+9. *Calculate price*
+
+10. *Order (payment and send email back) ## Key the stripe and mailgun in lib/config.js before you use it.*
 
 ### To start the server
 
