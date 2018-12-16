@@ -23,7 +23,7 @@
 
 9. *Calculate price*
 
-10. *Order (payment and send email back) ## Key the stripe and mailgun in lib/config.js before you use it.*
+10. *Order (payment and send email back) ## Key the stripe and mailgun in lib/config.js before you can order.*
 
 ### To start the server
 
