@@ -2,17 +2,23 @@
 
 *Can do list*
 
-1. *Create user*
+1. *Create account*
 
-2. *Login*
+2. *Login into account*
 
-3. *Get the menu*
+3. *Modify account data*
 
-4. *Choose the menu with quantity*
+4. *Modify password*
 
-5. *Calculate price*
+5. *Delete account*
 
-6. *Order (payment and send email back) ## Key the stripe and mailgun in lib/config.js before you use it.*
+6. *Show the menu (only after login)*
+
+7. *Choose the menu with quantity*
+
+8. *Calculate price*
+
+9. *Order (payment and send email back) ## Key the stripe and mailgun in lib/config.js before you use it.*
 
 ### To start the server
 
